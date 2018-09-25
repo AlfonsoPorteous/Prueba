@@ -9,5 +9,6 @@ namespace Probando
     class Class1
     {
         public int MyProperty { get; set; }
+        public int NUEVA { get; set; }
     }
 }
